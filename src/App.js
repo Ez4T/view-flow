@@ -11,6 +11,9 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <Simple />
+        <p>
+          This is from simple2 feature
+        </p>
       </header>
     </div>
   );
