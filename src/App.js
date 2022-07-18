@@ -14,6 +14,9 @@ function App() {
         <p>
           This is from simple2 feature
         </p>
+        <p>
+          This is from simple3 feature
+        </p>
       </header>
     </div>
   );
